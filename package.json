@@ -2,7 +2,7 @@
    "name": "fcc-learn-npm-package-json",
    "author": "Tsara Fatma L",
    "description": "This is the repo for me learning NodeJS",
-   "keywords": ["node", "javascript", "learn", "npm"],
+   "keywords": ["node", "javascript", "learn", "npm", "freecodecamp"],
    "dependencies": {
            "express": "^4.14.0"
    },
